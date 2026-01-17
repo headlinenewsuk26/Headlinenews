@@ -1,16 +1,4 @@
 headlinenewsuk26/
-│
-├─ index.html
-├─ about.html
-├─ contact.html
-├─ news/
-│   ├─ uk-featured.html
-│   ├─ usa-news.html
-│   ├─ uk-news.html
-│   └─ europe-news.html
-└─ css/
-    └─ style.css
-  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
