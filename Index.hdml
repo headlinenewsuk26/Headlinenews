@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Latest global and UK news, updates, and reports. Stay updated with breaking news from USA, UK, Europe, Asia, and worldwide.">
+  <title>HeadlineNews UK.26</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Optional: Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>HeadlineNews UK.26</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Breaking News Ticker -->
+  <div class="ticker">
+    Breaking: UK Parliament discusses new economic policy | US-China trade tensions rise | Europe climate summit updates
+  </div>
+
+  <!-- Main Content -->
+  <main class="container">
+
+    <!-- Featured Article Section -->
+    <section class="featured">
+      <article>
+        <h2><a href="news/uk-featured.html">UK Economic Policy Update 2026</a></h2>
+        <p>The UK government has introduced new fiscal measures aimed at boosting growth and stability...</p>
+      </article>
+    </section>
+
+    <!-- Latest News Section -->
+    <section class="latest-news">
+      <h2>Latest News</h2>
+
+      <article class="article-card">
+        <h3><a href="news/usa-news.html">US Elections 2026: Latest Updates</a></h3>
+        <p>Breaking updates from the United States elections, latest polls and campaign news...</p>
+      </article>
+
+      <article class="article-card">
+        <h3><a href="news/uk-news.html">UK Parliament Votes on Climate Bill</a></h3>
+        <p>UK lawmakers have voted in favor of a new climate policy aimed at reducing emissions...</p>
+      </article>
+
+      <article class="article-card">
+        <h3><a href="news/europe-news.html">Europe Summit Highlights</a></h3>
+        <p>Major European nations discussed trade, climate, and security policies at the annual summit...</p>
+      </article>
+
+    </section>
+
+    <!-- Sidebar Section -->
+    <aside class="sidebar">
+      <h3>Trending</h3>
+      <ul>
+        <li><a href="#">Global Stock Markets Today</a></li>
+        <li><a href="#">UK Housing Market Trends</a></li>
+        <li><a href="#">Tech Innovations in Europe</a></li>
+      </ul>
+    </aside>
+
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2026 HeadlineNews UK.26. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
